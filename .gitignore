@@ -4,7 +4,10 @@
 *.swp
 
 # Files
-*.md
+# Ignore specific markdown files in the root directory
+/core.md
+/fundamentals.md
+/phase.md
 
 # Python
 __pycache__/
